@@ -13,6 +13,8 @@ The document indludes the following topics.
 - Optimization
 - Exercises
 
-the exercise part includes two exercises.
-  1. Computing Ordinary Least Squares (OLS) estimator
-  2. Estimating discrete choice model
+The directory "Code for Tutorial Slide" includes MATLAB code for examples described in the document.
+The other two directories indlude dataset and MATLAB code for the following exercises. 
+
+- Exercise 1 : Computing Ordinary Least Squares (OLS) estimator
+- Exercise 2 : Estimating discrete choice model
