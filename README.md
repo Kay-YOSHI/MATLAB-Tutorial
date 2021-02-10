@@ -1,10 +1,10 @@
 # MATLAB-Tutorial
 
 This repository contains MATLAB tutorial document and related code.
-The document indludes the following topics.
+The document (MATLAB Tutorial.pdf) indludes the following topics.
 
 - Getting started with MATLAB
-- Basics such 
+- Basics such as matrix operations
 - Data import/export
 - Graphics
 - Loop structures
