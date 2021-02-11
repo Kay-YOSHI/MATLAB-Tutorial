@@ -14,7 +14,7 @@ The document (MATLAB Tutorial.pdf) indludes the following topics.
 - Exercises
 
 The directory "Code for Tutorial Slide" includes MATLAB code for examples described in the document.
-The other two directories indlude dataset and MATLAB code for the following exercises. 
+The other two directories indlude dataset and MATLAB code for the following economics-related exercises. 
 
 - Exercise 1 : Computing Ordinary Least Squares (OLS) estimator
 - Exercise 2 : Estimating discrete choice model
