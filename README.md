@@ -1,6 +1,6 @@
 # MATLAB-Tutorial
 
-This repository contains MATLAB tutorial document and related code.
+This repository contains MATLAB tutorial document and related code for beginners. 
 The document (MATLAB Tutorial.pdf) indludes the following topics.
 
 - Getting started with MATLAB
